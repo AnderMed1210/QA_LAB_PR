@@ -6,6 +6,6 @@ public class Main {
 
         //
 
-        int modi = 30;
+        int modi = 40;
     }
 }
